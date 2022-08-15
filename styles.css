@@ -1,0 +1,108 @@
+body {
+    /* font-family: Georgia, Times, serif; */
+    font-size: 12px;
+    background-color:white;
+    text-align: left;
+    
+}
+
+h3{
+    padding: 0px;
+    font-family: Helvetica;
+    margin-bottom: 5px;
+    color: #224473;
+}
+
+p{
+    padding: 0px;
+    font-family: Helvetica;
+    font-weight: 100;
+    font-size: 12px;
+    margin: 0 auto;
+    line-height: 2em;
+}
+
+hr{
+margin: 0px;
+}
+
+
+#wrapper{
+    width: 960px;
+    margin-left: 400px;
+}
+
+#profilepic{
+    padding: 20px 200px;
+    border-spacing: 0px;
+}
+
+
+.column1{
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+.column2{
+    float: left;
+    padding-left: 50px;
+    width: 400px;
+    margin-right: 5px;
+}
+
+.endtable{
+    width: 870px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.music{
+    margin: 10px;
+    padding-bottom: 20px;
+}
+
+.icon1{
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.video{
+    margin: 0px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.web{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+th, td {
+    padding-right: 20px;
+    font-family: Helvetica;
+    font-size: 12px;
+    /* border: 1px solid black; */
+    line-height: 2em;
+    
+}
+
+
+table{
+    border-spacing: 5px;
+}
+
+ul{
+    font-family: Helvetica;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 1.5;
+    padding-left: 0px;
+
+}
+
+
